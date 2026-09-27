@@ -33,4 +33,4 @@ The **`frameworks`** repository will hold proposals and evolving documents on to
 
 We aim for respectful, inclusive, and evidence-based discussion. Different methods and interpretations are welcome. Please identify potential limitations, cite relevant work where possible, and give proper credit to contributors.
 
-**Whether you work on BCG, SCG, PCG, GCG, or another cardiac mechanical signal, we invite you to help shape this community.**
+**Whether you work on BCG, SCG, PCG, or another cardiac mechanical signal, we invite you to help shape this community.**
