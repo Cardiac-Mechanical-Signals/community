@@ -2,7 +2,7 @@
 
 **An open community for researchers studying the mechanical activity of the heart.**
 
-Cardiac Mechanical Signals brings together researchers, clinicians, engineers, and students working with ballistocardiography (BCG), seismocardiography (SCG), phonocardiography (PCG), gyrocardiography (GCG), and related measurements of cardiac mechanical activity.
+Cardiac Mechanical Signals brings together researchers, clinicians, engineers, and students working with ballistocardiography (BCG), seismocardiography (SCG), phonocardiography (PCG) and related measurements of cardiac mechanical activity.
 
 Our goals are to connect people across these fields, share recent work, and develop common frameworks that make research easier to compare, reproduce, and build upon.
 
